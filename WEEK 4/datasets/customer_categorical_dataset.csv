@@ -1,0 +1,1001 @@
+Gender,City,Education_Level,Membership_Type,Payment_Method,Age,Annual_Income,Spending_Score
+Male,Chennai,High School,Platinum,Net Banking,45,1134550,16
+Female,Delhi,Master,Silver,UPI,22,782111,24
+Male,Delhi,Master,Basic,Credit Card,22,733903,61
+Male,Delhi,High School,Gold,Cash,38,706554,54
+Male,Pune,Master,Gold,Cash,29,1116931,62
+Female,Hyderabad,High School,Silver,Debit Card,21,800724,1
+Male,Pune,Bachelor,Silver,Cash,59,1057549,49
+Male,Hyderabad,Master,Gold,UPI,37,759070,25
+Male,Pune,High School,Basic,Net Banking,55,1327109,10
+Female,Pune,Master,Gold,Net Banking,42,440011,80
+Male,Chennai,Master,Platinum,Net Banking,31,1437903,16
+Male,Bangalore,Bachelor,Platinum,Credit Card,28,272684,58
+Male,Pune,High School,Silver,Cash,49,1465197,72
+Male,Chennai,High School,Basic,UPI,28,1483871,29
+Female,Mumbai,Bachelor,Basic,Credit Card,35,975723,92
+Male,Bangalore,PhD,Platinum,Debit Card,44,1147509,6
+Female,Pune,Bachelor,Gold,UPI,35,1154138,16
+Female,Delhi,High School,Silver,UPI,40,937651,20
+Female,Mumbai,Bachelor,Gold,UPI,28,911423,80
+Male,Mumbai,Bachelor,Gold,Net Banking,38,353466,71
+Female,Chennai,Master,Gold,UPI,61,434318,78
+Male,Mumbai,High School,Basic,Cash,22,572778,43
+Female,Bangalore,Master,Platinum,UPI,40,331936,26
+Female,Pune,Bachelor,Basic,Net Banking,58,1157726,90
+Female,Pune,PhD,Platinum,UPI,42,847952,78
+Female,Delhi,Bachelor,Silver,Debit Card,58,876315,71
+Female,Chennai,Bachelor,Silver,Debit Card,27,572818,33
+Female,Delhi,PhD,Gold,Net Banking,39,1352109,26
+Female,Mumbai,High School,Platinum,Cash,36,1068277,45
+Female,Delhi,PhD,Platinum,Cash,18,1496573,84
+Male,Bangalore,Bachelor,Platinum,Credit Card,24,1318166,63
+Male,Pune,High School,Gold,Net Banking,21,528615,67
+Female,Mumbai,Bachelor,Gold,UPI,18,681530,52
+Female,Delhi,Master,Silver,Net Banking,32,1493512,68
+Female,Chennai,High School,Basic,Credit Card,57,609925,26
+Male,Bangalore,Bachelor,Platinum,Net Banking,29,1258302,75
+Female,Bangalore,Bachelor,Platinum,Net Banking,39,391896,2
+Male,Delhi,Bachelor,Basic,Credit Card,39,1289118,14
+Male,Pune,High School,Platinum,Cash,64,613461,30
+Male,Delhi,Master,Gold,UPI,34,1283329,49
+Male,Mumbai,PhD,Gold,Credit Card,46,1066220,12
+Male,Delhi,PhD,Platinum,Debit Card,63,483460,90
+Female,Bangalore,Master,Gold,Cash,31,433979,44
+Female,Delhi,High School,Gold,Debit Card,37,808986,33
+Female,Pune,Master,Platinum,Cash,50,478104,13
+Female,Chennai,High School,Silver,UPI,60,1279367,78
+Female,Hyderabad,High School,Basic,UPI,32,1225270,88
+Male,Delhi,Bachelor,Gold,Net Banking,29,487360,98
+Female,Pune,Bachelor,Silver,Debit Card,57,797578,26
+Female,Pune,Master,Gold,Cash,37,771302,21
+Male,Chennai,Bachelor,Gold,UPI,47,335150,28
+Female,Bangalore,Bachelor,Basic,Credit Card,55,1195893,48
+Male,Pune,High School,Gold,UPI,20,1299095,100
+Female,Pune,PhD,Basic,Credit Card,45,773340,40
+Male,Pune,Bachelor,Basic,Cash,43,1262965,66
+Female,Pune,Bachelor,Basic,UPI,47,558105,73
+Female,Mumbai,High School,Silver,UPI,30,1080147,87
+Male,Mumbai,Master,Platinum,Cash,30,1037165,79
+Male,Bangalore,Bachelor,Silver,UPI,19,1072318,77
+Male,Delhi,High School,Platinum,Credit Card,54,1406329,23
+Male,Pune,High School,Platinum,UPI,55,543150,81
+Male,Chennai,Bachelor,Basic,Debit Card,19,1343489,48
+Male,Delhi,Bachelor,Gold,Net Banking,53,818396,2
+Male,Chennai,High School,Basic,Credit Card,43,979091,84
+Male,Delhi,PhD,Gold,Debit Card,28,469637,20
+Female,Bangalore,High School,Platinum,Cash,25,269639,59
+Female,Pune,Bachelor,Basic,Credit Card,61,1480028,46
+Male,Pune,PhD,Gold,Net Banking,57,509378,3
+Female,Hyderabad,Bachelor,Silver,Net Banking,60,1164795,55
+Female,Chennai,Bachelor,Gold,Cash,39,686084,12
+Female,Delhi,Bachelor,Basic,Cash,37,469515,40
+Female,Delhi,High School,Silver,Credit Card,25,432520,66
+Male,Mumbai,PhD,Gold,UPI,46,1492035,100
+Female,Hyderabad,Bachelor,Gold,Cash,57,871986,78
+Male,Mumbai,Master,Gold,UPI,43,437330,16
+Female,Mumbai,High School,Gold,Debit Card,47,1354149,83
+Female,Mumbai,High School,Gold,Net Banking,34,1124634,34
+Female,Chennai,High School,Silver,UPI,37,337900,44
+Male,Chennai,Bachelor,Platinum,Net Banking,33,519658,6
+Female,Bangalore,Bachelor,Silver,UPI,63,700364,77
+Male,Bangalore,Master,Silver,Debit Card,60,1484283,64
+Female,Mumbai,Bachelor,Silver,Cash,24,898419,100
+Male,Hyderabad,PhD,Platinum,Debit Card,33,723116,22
+Female,Delhi,High School,Basic,Cash,62,713066,18
+Male,Chennai,Master,Platinum,Cash,64,464179,12
+Male,Hyderabad,Master,Silver,Net Banking,44,1358343,52
+Female,Pune,Master,Gold,Debit Card,40,633961,94
+Male,Chennai,Master,Gold,UPI,41,741529,51
+Female,Chennai,Master,Silver,Debit Card,26,777263,71
+Female,Bangalore,Bachelor,Gold,Net Banking,52,354226,96
+Female,Delhi,High School,Silver,Cash,37,1162454,48
+Female,Delhi,High School,Gold,Net Banking,54,691818,19
+Female,Pune,PhD,Platinum,Credit Card,59,256396,6
+Female,Pune,Bachelor,Basic,Credit Card,34,318920,84
+Female,Chennai,Master,Basic,UPI,64,606547,27
+Female,Mumbai,Bachelor,Platinum,Net Banking,48,394999,53
+Female,Bangalore,High School,Platinum,UPI,25,263014,48
+Female,Bangalore,High School,Silver,UPI,32,794699,7
+Female,Chennai,Bachelor,Silver,Credit Card,48,385550,59
+Male,Hyderabad,Bachelor,Silver,UPI,47,1435382,69
+Male,Mumbai,High School,Gold,Credit Card,63,1233994,11
+Female,Chennai,Bachelor,Silver,Cash,37,538585,15
+Female,Mumbai,High School,Platinum,Net Banking,56,1294697,64
+Female,Mumbai,Bachelor,Basic,UPI,29,1244890,3
+Female,Mumbai,High School,Gold,Credit Card,34,522341,69
+Female,Chennai,Master,Silver,Debit Card,59,1333153,23
+Female,Bangalore,Bachelor,Gold,UPI,47,556778,53
+Female,Bangalore,Bachelor,Gold,Cash,46,1497682,37
+Female,Mumbai,High School,Silver,Cash,36,1235141,9
+Male,Hyderabad,High School,Gold,Debit Card,63,860197,15
+Female,Delhi,Bachelor,Basic,Credit Card,28,705200,3
+Male,Chennai,Bachelor,Platinum,UPI,51,676379,93
+Female,Delhi,Bachelor,Platinum,Credit Card,24,725754,70
+Female,Hyderabad,High School,Basic,Cash,61,1236149,17
+Male,Chennai,Bachelor,Gold,Credit Card,51,546030,26
+Female,Mumbai,Master,Silver,Cash,37,528055,21
+Male,Bangalore,Master,Gold,Credit Card,55,288422,72
+Female,Delhi,High School,Basic,Debit Card,41,1215691,21
+Female,Pune,Bachelor,Gold,Net Banking,27,535513,11
+Male,Pune,High School,Platinum,Debit Card,49,1158378,38
+Female,Hyderabad,High School,Gold,Debit Card,32,932722,72
+Male,Mumbai,PhD,Basic,Net Banking,54,1086388,88
+Female,Delhi,High School,Platinum,Net Banking,37,1400847,35
+Male,Mumbai,Bachelor,Gold,UPI,20,1234104,14
+Male,Delhi,Bachelor,Gold,UPI,54,553548,14
+Female,Hyderabad,Master,Platinum,Debit Card,57,1044156,10
+Female,Hyderabad,Bachelor,Silver,Debit Card,25,1416053,12
+Male,Pune,High School,Platinum,Cash,57,1477880,38
+Female,Mumbai,Bachelor,Silver,Cash,61,1226163,34
+Female,Chennai,Bachelor,Basic,UPI,40,1015363,41
+Female,Pune,High School,Basic,UPI,57,552621,10
+Male,Mumbai,Bachelor,Platinum,Cash,28,672697,17
+Male,Pune,High School,Platinum,Cash,63,931658,17
+Male,Chennai,High School,Basic,Credit Card,25,885493,67
+Male,Bangalore,Bachelor,Silver,Credit Card,46,967976,62
+Male,Bangalore,High School,Basic,Cash,47,678705,95
+Male,Bangalore,Bachelor,Platinum,Credit Card,27,502619,1
+Male,Bangalore,Bachelor,Basic,Net Banking,56,806954,12
+Male,Delhi,Master,Platinum,UPI,45,558766,4
+Male,Bangalore,High School,Platinum,UPI,53,307573,42
+Female,Chennai,High School,Basic,Cash,30,469152,13
+Male,Hyderabad,High School,Silver,Debit Card,49,510435,98
+Female,Hyderabad,Bachelor,Gold,Cash,53,358477,85
+Female,Delhi,Master,Basic,Credit Card,54,1496717,86
+Female,Bangalore,High School,Gold,Debit Card,43,498530,4
+Male,Bangalore,PhD,Basic,Credit Card,39,1400475,82
+Male,Bangalore,High School,Gold,Net Banking,21,1019472,69
+Male,Pune,Bachelor,Silver,Credit Card,48,540687,19
+Male,Mumbai,Master,Silver,Net Banking,35,1215197,2
+Female,Pune,Master,Basic,Net Banking,55,759603,12
+Male,Mumbai,Master,Platinum,Credit Card,41,614380,81
+Male,Bangalore,Master,Gold,Credit Card,40,1380594,74
+Male,Bangalore,Bachelor,Platinum,Net Banking,39,1001125,98
+Male,Pune,Master,Platinum,Debit Card,19,489385,6
+Male,Pune,High School,Platinum,Net Banking,48,1101626,8
+Female,Mumbai,Master,Silver,UPI,28,295790,51
+Male,Hyderabad,Bachelor,Basic,Net Banking,45,1133044,11
+Female,Mumbai,Master,Basic,Debit Card,63,796543,63
+Male,Pune,Bachelor,Silver,UPI,49,1420851,57
+Female,Chennai,Bachelor,Silver,Cash,22,1259926,12
+Male,Pune,Bachelor,Basic,Cash,55,518953,73
+Male,Chennai,Master,Platinum,Debit Card,27,301894,2
+Female,Delhi,High School,Gold,Net Banking,57,636048,8
+Female,Pune,High School,Gold,Credit Card,63,479720,11
+Female,Delhi,High School,Gold,Debit Card,41,1331960,53
+Male,Hyderabad,High School,Platinum,UPI,52,1248966,100
+Female,Mumbai,Master,Basic,UPI,61,1031868,10
+Male,Chennai,High School,Silver,Cash,40,606245,85
+Male,Mumbai,PhD,Basic,UPI,34,222490,84
+Female,Delhi,Bachelor,Platinum,Debit Card,18,1032307,8
+Female,Chennai,High School,Silver,UPI,48,805108,36
+Male,Mumbai,Master,Platinum,Debit Card,48,471265,93
+Male,Pune,Bachelor,Gold,Credit Card,59,201539,76
+Female,Bangalore,Bachelor,Gold,Cash,59,512579,14
+Female,Delhi,Bachelor,Platinum,UPI,51,715584,54
+Female,Mumbai,Master,Silver,Debit Card,26,263965,85
+Male,Delhi,High School,Silver,Net Banking,39,1346375,86
+Male,Delhi,PhD,Basic,Cash,30,1342524,21
+Male,Chennai,PhD,Gold,Credit Card,42,1391890,50
+Male,Chennai,Bachelor,Basic,Debit Card,35,448099,94
+Male,Bangalore,High School,Basic,Credit Card,29,1230065,39
+Male,Pune,Bachelor,Platinum,Credit Card,57,995379,20
+Female,Delhi,High School,Platinum,UPI,34,967610,88
+Male,Mumbai,High School,Basic,UPI,32,926826,87
+Male,Hyderabad,High School,Gold,Debit Card,59,1106395,7
+Male,Delhi,Bachelor,Platinum,Net Banking,32,1260194,9
+Female,Delhi,Master,Basic,Debit Card,32,536430,1
+Male,Bangalore,Master,Basic,Net Banking,56,862714,26
+Male,Pune,Master,Basic,Credit Card,30,810724,38
+Female,Hyderabad,Bachelor,Basic,Cash,34,410448,38
+Male,Chennai,Bachelor,Basic,Debit Card,49,1170278,61
+Male,Chennai,Bachelor,Basic,Debit Card,26,695919,44
+Male,Mumbai,PhD,Platinum,Net Banking,57,1384685,86
+Male,Hyderabad,High School,Gold,Credit Card,37,1277209,44
+Male,Chennai,Master,Basic,Credit Card,43,1010927,74
+Female,Mumbai,Bachelor,Silver,Net Banking,44,1050982,62
+Female,Pune,Bachelor,Platinum,Credit Card,38,412456,6
+Female,Mumbai,Master,Platinum,UPI,35,575325,17
+Male,Chennai,Bachelor,Basic,Cash,30,666589,51
+Male,Bangalore,Master,Platinum,Debit Card,33,496213,38
+Male,Bangalore,PhD,Basic,Cash,26,1387018,24
+Female,Bangalore,Bachelor,Gold,Debit Card,29,1103275,51
+Male,Chennai,High School,Gold,UPI,61,1320523,10
+Male,Bangalore,Bachelor,Platinum,Credit Card,55,370205,72
+Female,Hyderabad,PhD,Platinum,Net Banking,36,1344337,21
+Male,Pune,High School,Silver,UPI,24,1118196,70
+Female,Mumbai,Bachelor,Platinum,Cash,52,1353276,85
+Female,Mumbai,Bachelor,Silver,Net Banking,35,773881,57
+Female,Chennai,Master,Gold,Credit Card,33,1218454,39
+Male,Bangalore,High School,Gold,UPI,56,205209,88
+Male,Bangalore,Master,Basic,Net Banking,21,599749,33
+Male,Delhi,PhD,Gold,UPI,42,1258503,59
+Male,Pune,High School,Silver,UPI,49,841621,18
+Male,Hyderabad,High School,Platinum,Credit Card,57,1404242,56
+Male,Mumbai,PhD,Basic,Debit Card,30,930212,92
+Male,Delhi,High School,Silver,Net Banking,62,1457361,57
+Female,Delhi,Master,Platinum,Credit Card,34,538526,96
+Male,Chennai,Bachelor,Basic,UPI,54,339005,76
+Female,Mumbai,High School,Gold,Credit Card,23,1229661,48
+Male,Chennai,Master,Silver,Debit Card,36,396521,42
+Male,Hyderabad,Bachelor,Platinum,Net Banking,30,1123593,27
+Male,Delhi,Bachelor,Basic,Debit Card,43,649764,74
+Female,Delhi,Bachelor,Basic,Cash,31,1405771,52
+Female,Pune,Bachelor,Gold,Net Banking,48,1298589,42
+Female,Hyderabad,High School,Platinum,Debit Card,21,601562,32
+Female,Delhi,Bachelor,Gold,UPI,56,416486,26
+Male,Hyderabad,PhD,Gold,Net Banking,25,626888,25
+Female,Mumbai,High School,Platinum,Net Banking,42,1035988,75
+Male,Bangalore,Bachelor,Platinum,Credit Card,30,1110155,23
+Male,Delhi,Bachelor,Platinum,UPI,49,750428,98
+Female,Pune,Master,Silver,Cash,55,463328,57
+Female,Mumbai,High School,Platinum,Debit Card,55,311361,52
+Female,Hyderabad,PhD,Basic,Credit Card,45,992038,87
+Female,Chennai,Bachelor,Gold,Debit Card,47,597172,93
+Female,Mumbai,High School,Silver,Cash,20,1265131,31
+Female,Delhi,High School,Platinum,Cash,45,814673,64
+Female,Hyderabad,High School,Silver,Net Banking,20,455658,71
+Female,Bangalore,Bachelor,Platinum,Cash,62,954085,33
+Male,Mumbai,Bachelor,Silver,Debit Card,51,303844,85
+Female,Delhi,Master,Gold,UPI,33,1339897,2
+Female,Pune,Bachelor,Gold,UPI,39,1035488,18
+Male,Chennai,High School,Basic,Net Banking,49,298234,47
+Female,Hyderabad,Bachelor,Basic,Debit Card,55,674718,33
+Male,Mumbai,Master,Platinum,Debit Card,25,951993,98
+Male,Mumbai,High School,Gold,Cash,25,1198922,84
+Female,Bangalore,High School,Silver,Debit Card,23,925571,35
+Male,Bangalore,High School,Silver,Credit Card,31,1028282,51
+Male,Pune,Master,Silver,Cash,49,671761,18
+Male,Chennai,Bachelor,Basic,Credit Card,52,524464,88
+Male,Pune,Bachelor,Silver,Net Banking,27,754081,72
+Female,Delhi,Master,Basic,UPI,20,1221911,30
+Male,Delhi,Master,Basic,Net Banking,29,1268203,44
+Female,Pune,Bachelor,Platinum,UPI,48,677317,53
+Male,Chennai,Master,Silver,Net Banking,46,1471209,10
+Male,Pune,High School,Silver,Debit Card,22,1169752,87
+Male,Chennai,High School,Gold,Credit Card,42,517942,52
+Male,Chennai,High School,Platinum,UPI,58,537462,49
+Female,Hyderabad,High School,Gold,Cash,48,550046,11
+Female,Chennai,Bachelor,Platinum,Credit Card,38,621773,66
+Male,Bangalore,PhD,Silver,Cash,37,533478,58
+Male,Chennai,High School,Basic,Credit Card,56,668379,90
+Female,Chennai,High School,Basic,Credit Card,39,568863,36
+Male,Chennai,Bachelor,Basic,Net Banking,21,1371675,33
+Male,Delhi,PhD,Basic,UPI,30,933362,47
+Male,Bangalore,Bachelor,Basic,UPI,62,897974,13
+Female,Bangalore,Bachelor,Gold,Credit Card,59,307449,40
+Female,Pune,High School,Platinum,Debit Card,37,1351404,89
+Female,Hyderabad,High School,Silver,Debit Card,30,1375189,68
+Male,Chennai,PhD,Gold,Cash,34,272095,42
+Male,Mumbai,PhD,Platinum,Cash,53,830212,19
+Female,Hyderabad,High School,Basic,Net Banking,50,820740,82
+Female,Hyderabad,PhD,Platinum,Credit Card,18,287593,94
+Female,Bangalore,Bachelor,Platinum,Cash,32,891252,19
+Female,Hyderabad,Master,Basic,Cash,30,1102473,58
+Male,Chennai,Bachelor,Basic,Credit Card,34,326202,23
+Female,Chennai,Bachelor,Basic,Net Banking,41,277606,54
+Male,Delhi,Bachelor,Silver,Cash,25,1372345,80
+Female,Chennai,Bachelor,Basic,Net Banking,44,318542,65
+Male,Chennai,High School,Silver,UPI,62,775610,12
+Female,Bangalore,High School,Basic,Net Banking,40,1406126,24
+Female,Chennai,Bachelor,Silver,Debit Card,63,655433,34
+Female,Delhi,Master,Platinum,Debit Card,25,824987,53
+Female,Mumbai,High School,Gold,Net Banking,25,290140,8
+Male,Bangalore,Bachelor,Platinum,Debit Card,43,1346204,18
+Female,Mumbai,PhD,Platinum,UPI,64,1333634,57
+Male,Bangalore,High School,Basic,Credit Card,30,681799,5
+Male,Pune,Bachelor,Silver,Debit Card,56,1400118,26
+Male,Hyderabad,Bachelor,Gold,Debit Card,54,242674,30
+Male,Pune,Master,Basic,Net Banking,45,327572,54
+Female,Chennai,High School,Basic,UPI,42,491975,13
+Male,Mumbai,Bachelor,Basic,Credit Card,33,781462,83
+Male,Chennai,Master,Platinum,Net Banking,19,631436,29
+Male,Hyderabad,PhD,Silver,Net Banking,35,645935,3
+Female,Bangalore,Bachelor,Silver,UPI,34,980296,90
+Female,Hyderabad,Bachelor,Gold,Credit Card,47,1301627,58
+Female,Delhi,Bachelor,Silver,UPI,56,1451661,76
+Female,Hyderabad,Master,Silver,Credit Card,30,1314100,2
+Male,Delhi,Bachelor,Basic,UPI,49,468614,75
+Male,Hyderabad,High School,Basic,Net Banking,46,717733,28
+Female,Delhi,PhD,Platinum,Net Banking,63,515617,82
+Male,Mumbai,Bachelor,Basic,Cash,47,1137384,77
+Male,Chennai,Bachelor,Basic,Debit Card,35,1293015,86
+Male,Chennai,High School,Basic,UPI,30,476452,76
+Female,Pune,Bachelor,Basic,Cash,60,291563,2
+Female,Chennai,Bachelor,Platinum,Debit Card,38,951616,7
+Male,Bangalore,Bachelor,Basic,UPI,47,930602,26
+Female,Hyderabad,High School,Gold,Credit Card,38,959495,90
+Female,Pune,Bachelor,Gold,Debit Card,34,1169655,88
+Female,Bangalore,PhD,Gold,Net Banking,57,367896,76
+Female,Bangalore,High School,Gold,Cash,36,821912,16
+Female,Delhi,PhD,Basic,Debit Card,32,619515,23
+Male,Chennai,Bachelor,Gold,Debit Card,26,1217497,40
+Female,Mumbai,Master,Basic,Net Banking,27,230063,60
+Male,Mumbai,Master,Platinum,UPI,61,1239272,73
+Male,Pune,Bachelor,Gold,Credit Card,48,454371,32
+Female,Mumbai,Master,Silver,Net Banking,40,1185976,15
+Male,Hyderabad,Master,Gold,Credit Card,47,302166,13
+Male,Mumbai,Bachelor,Gold,UPI,50,1263082,5
+Male,Pune,Bachelor,Basic,Debit Card,26,1473989,75
+Female,Mumbai,Bachelor,Gold,Credit Card,64,1197358,74
+Female,Hyderabad,Master,Silver,Cash,18,1362180,52
+Male,Delhi,Master,Basic,Cash,61,1274602,77
+Female,Pune,Master,Basic,Net Banking,52,620888,41
+Female,Delhi,Bachelor,Platinum,UPI,28,390285,53
+Female,Delhi,Master,Platinum,Net Banking,51,1299547,50
+Female,Delhi,High School,Gold,Net Banking,33,620497,15
+Male,Bangalore,Bachelor,Platinum,Net Banking,26,313978,7
+Male,Chennai,High School,Platinum,Cash,49,1407739,40
+Female,Bangalore,Bachelor,Platinum,Cash,32,303864,28
+Female,Chennai,Bachelor,Basic,Net Banking,29,1231259,32
+Male,Delhi,Bachelor,Basic,Cash,50,1136114,99
+Male,Pune,Bachelor,Basic,UPI,62,594295,15
+Female,Chennai,Bachelor,Platinum,Net Banking,31,819674,100
+Male,Hyderabad,Bachelor,Basic,Cash,25,648648,85
+Female,Hyderabad,High School,Platinum,Credit Card,25,805151,70
+Female,Mumbai,Bachelor,Basic,Net Banking,44,540435,65
+Male,Chennai,High School,Basic,Net Banking,29,325659,4
+Male,Pune,High School,Silver,UPI,18,1255811,11
+Female,Bangalore,Bachelor,Gold,Debit Card,60,1311288,26
+Female,Delhi,Bachelor,Platinum,Debit Card,57,1401121,61
+Male,Mumbai,Bachelor,Silver,UPI,59,962178,37
+Female,Hyderabad,Bachelor,Basic,UPI,28,325849,23
+Male,Bangalore,Bachelor,Platinum,UPI,56,1224903,93
+Female,Bangalore,Master,Basic,Debit Card,60,455493,85
+Male,Delhi,Bachelor,Gold,UPI,48,804111,91
+Male,Chennai,Bachelor,Silver,Cash,34,1352791,40
+Male,Hyderabad,High School,Gold,Net Banking,50,232230,77
+Female,Pune,Bachelor,Silver,Net Banking,49,546717,23
+Female,Bangalore,Bachelor,Basic,Credit Card,46,947948,16
+Male,Delhi,Bachelor,Gold,Credit Card,38,662092,94
+Female,Pune,Bachelor,Gold,Net Banking,38,502788,61
+Male,Chennai,Bachelor,Basic,Cash,57,1428312,68
+Male,Hyderabad,Bachelor,Gold,Debit Card,40,1031635,80
+Female,Chennai,Master,Platinum,Debit Card,23,847534,31
+Female,Bangalore,Master,Silver,Cash,39,1333393,53
+Male,Pune,Master,Silver,Debit Card,55,1487233,25
+Female,Pune,PhD,Silver,UPI,54,1465609,44
+Female,Pune,High School,Platinum,Net Banking,62,431414,12
+Male,Bangalore,High School,Silver,Net Banking,25,456812,90
+Male,Bangalore,High School,Basic,Cash,58,504958,97
+Female,Chennai,Bachelor,Gold,Debit Card,52,370956,92
+Male,Mumbai,Master,Platinum,Credit Card,28,1055754,9
+Male,Chennai,High School,Silver,Credit Card,41,221650,12
+Female,Hyderabad,PhD,Basic,Debit Card,38,1126694,69
+Male,Delhi,High School,Gold,Credit Card,19,1419097,54
+Male,Pune,PhD,Gold,Cash,57,1419309,54
+Female,Mumbai,Bachelor,Platinum,Cash,36,1016141,28
+Female,Delhi,High School,Platinum,Debit Card,56,442037,56
+Male,Mumbai,Bachelor,Platinum,Credit Card,45,1329004,99
+Male,Chennai,High School,Basic,Cash,34,406251,69
+Female,Bangalore,High School,Basic,Cash,23,734231,98
+Female,Pune,Bachelor,Platinum,UPI,36,221042,98
+Female,Chennai,Master,Silver,UPI,55,1030326,77
+Female,Delhi,Bachelor,Gold,Cash,45,1178582,58
+Male,Delhi,Bachelor,Gold,Debit Card,19,518903,78
+Female,Delhi,Bachelor,Basic,Net Banking,55,1094801,75
+Female,Delhi,Master,Gold,Net Banking,54,1014811,42
+Male,Delhi,High School,Silver,Cash,21,582811,38
+Female,Mumbai,Bachelor,Gold,Cash,39,701691,68
+Male,Chennai,High School,Basic,Cash,43,1208314,53
+Female,Pune,High School,Basic,Debit Card,60,414304,33
+Female,Bangalore,Bachelor,Silver,UPI,53,596178,71
+Female,Bangalore,High School,Silver,Cash,30,638963,56
+Male,Chennai,Bachelor,Gold,Cash,49,1111612,72
+Male,Chennai,Master,Gold,Credit Card,34,514493,51
+Female,Bangalore,High School,Basic,Debit Card,58,401904,74
+Male,Bangalore,Bachelor,Silver,Cash,53,911716,43
+Male,Mumbai,High School,Silver,Credit Card,63,870105,15
+Male,Hyderabad,PhD,Silver,Net Banking,36,205730,38
+Male,Pune,Bachelor,Gold,Cash,52,1450786,15
+Male,Delhi,Master,Silver,Cash,63,938471,5
+Male,Hyderabad,Bachelor,Basic,Credit Card,57,1267599,93
+Female,Chennai,High School,Basic,Debit Card,45,545430,83
+Female,Bangalore,Bachelor,Gold,Cash,18,1028411,54
+Male,Hyderabad,PhD,Platinum,Net Banking,59,608213,51
+Female,Pune,Bachelor,Gold,Cash,35,900399,10
+Female,Chennai,Master,Platinum,Net Banking,57,220923,12
+Female,Delhi,Master,Silver,UPI,50,1047405,4
+Female,Delhi,High School,Gold,UPI,29,394795,95
+Male,Pune,High School,Basic,Net Banking,25,1028854,18
+Female,Pune,Bachelor,Silver,Debit Card,41,433462,80
+Female,Bangalore,Bachelor,Basic,Cash,33,251413,36
+Male,Delhi,Master,Silver,Cash,21,1088916,25
+Male,Chennai,PhD,Gold,UPI,55,753044,87
+Female,Hyderabad,Bachelor,Platinum,Net Banking,61,610226,76
+Female,Chennai,High School,Silver,Cash,44,1375615,98
+Female,Mumbai,Master,Platinum,Cash,26,380074,36
+Female,Mumbai,High School,Silver,Debit Card,64,856735,67
+Female,Pune,Master,Basic,Credit Card,33,1008524,9
+Female,Bangalore,Bachelor,Basic,UPI,29,331562,61
+Male,Mumbai,Bachelor,Silver,UPI,48,1252305,53
+Female,Delhi,High School,Platinum,Credit Card,41,842510,18
+Female,Chennai,Bachelor,Gold,Cash,31,808148,43
+Male,Chennai,Bachelor,Gold,Debit Card,62,458360,35
+Male,Pune,Bachelor,Basic,Debit Card,42,559014,63
+Male,Hyderabad,High School,Gold,UPI,51,1269974,98
+Male,Pune,Master,Basic,Debit Card,20,496794,78
+Female,Hyderabad,Master,Gold,Credit Card,41,828177,4
+Female,Pune,High School,Silver,Cash,59,560306,93
+Female,Pune,High School,Basic,Credit Card,26,1474535,41
+Female,Pune,High School,Basic,Net Banking,43,827122,45
+Female,Hyderabad,Bachelor,Silver,UPI,37,718490,50
+Female,Hyderabad,Bachelor,Basic,Debit Card,57,753608,79
+Male,Pune,Bachelor,Gold,Net Banking,27,663092,28
+Female,Mumbai,High School,Gold,Debit Card,36,234924,42
+Male,Bangalore,Bachelor,Basic,Cash,20,1461368,80
+Male,Bangalore,Bachelor,Gold,Cash,41,895385,76
+Female,Bangalore,Bachelor,Platinum,Cash,22,1250735,69
+Male,Hyderabad,PhD,Basic,Debit Card,20,773228,98
+Female,Hyderabad,High School,Silver,Net Banking,44,670192,1
+Male,Mumbai,Bachelor,Platinum,Cash,33,640420,39
+Female,Bangalore,Bachelor,Basic,Net Banking,32,862132,96
+Male,Bangalore,Bachelor,Silver,Debit Card,52,965328,90
+Female,Pune,Master,Gold,Net Banking,29,929115,17
+Female,Hyderabad,Bachelor,Silver,Debit Card,58,354536,91
+Female,Bangalore,PhD,Platinum,Debit Card,61,775425,88
+Female,Chennai,High School,Gold,UPI,43,623448,35
+Female,Mumbai,High School,Basic,Debit Card,64,1047929,46
+Male,Chennai,Master,Gold,Debit Card,51,701233,42
+Male,Chennai,Bachelor,Basic,Credit Card,40,824773,39
+Male,Mumbai,High School,Basic,Cash,48,1489546,90
+Female,Chennai,High School,Silver,UPI,37,1202021,49
+Male,Bangalore,High School,Silver,UPI,29,200901,62
+Female,Hyderabad,Master,Silver,UPI,40,287980,38
+Female,Mumbai,High School,Platinum,Credit Card,21,989313,23
+Male,Pune,Bachelor,Platinum,Debit Card,40,492007,22
+Male,Chennai,High School,Silver,Cash,18,966722,4
+Female,Mumbai,Bachelor,Platinum,Net Banking,42,598838,49
+Male,Delhi,High School,Gold,Debit Card,19,715956,59
+Female,Delhi,Bachelor,Gold,Credit Card,47,687063,73
+Female,Hyderabad,High School,Platinum,Debit Card,20,926546,68
+Female,Bangalore,Master,Platinum,Debit Card,38,1031633,71
+Female,Hyderabad,High School,Gold,Credit Card,42,451839,87
+Female,Hyderabad,Bachelor,Basic,UPI,37,1225264,2
+Male,Hyderabad,Master,Gold,UPI,39,796860,49
+Male,Hyderabad,Bachelor,Gold,Cash,38,1036642,88
+Female,Pune,Bachelor,Platinum,Cash,50,587773,95
+Female,Pune,Bachelor,Gold,UPI,55,222499,31
+Male,Mumbai,Bachelor,Platinum,Net Banking,32,826840,40
+Male,Delhi,Bachelor,Platinum,Debit Card,63,644844,48
+Female,Hyderabad,PhD,Silver,Net Banking,32,686525,51
+Male,Mumbai,Bachelor,Gold,Debit Card,63,1071905,43
+Female,Delhi,Bachelor,Basic,UPI,42,343704,98
+Male,Chennai,Master,Silver,Cash,38,885967,55
+Female,Bangalore,Bachelor,Platinum,Cash,41,1340449,88
+Male,Pune,High School,Platinum,Net Banking,22,265756,49
+Female,Chennai,Bachelor,Basic,Cash,23,640210,90
+Male,Delhi,PhD,Platinum,UPI,60,1443030,80
+Male,Chennai,High School,Gold,Net Banking,61,1370473,57
+Female,Bangalore,Bachelor,Silver,Debit Card,64,720082,77
+Male,Delhi,High School,Platinum,Cash,40,499488,15
+Female,Chennai,Bachelor,Platinum,Credit Card,21,1243361,27
+Male,Pune,High School,Basic,Cash,44,283791,68
+Female,Pune,Bachelor,Gold,Debit Card,35,903335,80
+Male,Mumbai,Master,Platinum,Net Banking,38,1381110,64
+Female,Chennai,Bachelor,Basic,Debit Card,45,1330017,94
+Male,Hyderabad,Bachelor,Platinum,Credit Card,52,1486188,30
+Female,Chennai,Master,Basic,UPI,39,633797,36
+Male,Delhi,PhD,Basic,Cash,57,1480020,67
+Female,Delhi,High School,Gold,Net Banking,40,1188793,86
+Female,Chennai,Bachelor,Platinum,UPI,20,1000607,86
+Female,Bangalore,High School,Gold,Debit Card,57,337263,49
+Male,Pune,PhD,Basic,Net Banking,27,545578,76
+Female,Delhi,PhD,Silver,UPI,42,1102153,55
+Male,Pune,Bachelor,Platinum,Net Banking,25,247645,85
+Female,Delhi,Master,Silver,Credit Card,28,439608,56
+Male,Mumbai,Bachelor,Platinum,Credit Card,22,747571,68
+Female,Hyderabad,Bachelor,Gold,Cash,62,549115,95
+Male,Delhi,High School,Gold,Cash,54,302780,44
+Male,Pune,Master,Gold,Credit Card,62,1017166,31
+Female,Mumbai,High School,Gold,Net Banking,55,1249091,58
+Male,Delhi,Master,Gold,Credit Card,46,1053159,87
+Male,Bangalore,Master,Silver,Cash,22,1095596,53
+Female,Hyderabad,Master,Gold,Credit Card,26,533977,84
+Male,Delhi,High School,Basic,Credit Card,19,783043,79
+Male,Mumbai,Bachelor,Basic,Net Banking,18,708175,23
+Male,Bangalore,High School,Silver,UPI,57,1322446,28
+Female,Chennai,Bachelor,Platinum,Cash,47,1385656,16
+Male,Mumbai,High School,Basic,Net Banking,28,296502,37
+Female,Mumbai,PhD,Platinum,Credit Card,45,790611,21
+Male,Bangalore,Bachelor,Silver,Credit Card,61,632206,79
+Male,Mumbai,Bachelor,Platinum,UPI,29,937902,17
+Male,Bangalore,Bachelor,Platinum,Cash,56,891804,37
+Female,Delhi,Bachelor,Platinum,Cash,43,628556,77
+Male,Bangalore,Bachelor,Platinum,Debit Card,30,535468,19
+Male,Bangalore,Bachelor,Silver,Cash,25,680350,30
+Female,Hyderabad,PhD,Basic,UPI,45,696232,45
+Male,Bangalore,Bachelor,Gold,Debit Card,47,731821,18
+Female,Bangalore,PhD,Platinum,Debit Card,26,1075817,78
+Female,Chennai,Master,Basic,Credit Card,56,1166540,62
+Male,Delhi,High School,Basic,Credit Card,48,450231,36
+Female,Hyderabad,PhD,Silver,Cash,38,1261516,100
+Male,Chennai,High School,Basic,Debit Card,64,580171,84
+Female,Pune,Master,Silver,Credit Card,51,741220,52
+Female,Delhi,Bachelor,Platinum,UPI,48,1474953,19
+Male,Delhi,Master,Platinum,Credit Card,42,650043,44
+Female,Pune,Master,Gold,Credit Card,29,1178935,7
+Female,Bangalore,Master,Gold,Debit Card,18,1273224,44
+Female,Chennai,Master,Gold,Debit Card,39,1230451,68
+Female,Mumbai,Bachelor,Basic,Net Banking,57,232966,34
+Female,Hyderabad,High School,Platinum,UPI,54,620993,66
+Male,Mumbai,Bachelor,Silver,Debit Card,64,363639,69
+Female,Pune,High School,Gold,Cash,18,446331,55
+Male,Delhi,Bachelor,Silver,UPI,18,1134678,10
+Female,Delhi,Bachelor,Silver,UPI,59,1291174,96
+Male,Hyderabad,PhD,Gold,Debit Card,59,390271,42
+Male,Delhi,Bachelor,Platinum,UPI,38,607014,41
+Female,Delhi,Master,Gold,Debit Card,32,1182868,77
+Female,Hyderabad,High School,Silver,Credit Card,34,1047516,69
+Female,Chennai,Master,Gold,Net Banking,39,899597,10
+Male,Chennai,PhD,Silver,Credit Card,55,855538,10
+Female,Hyderabad,Bachelor,Silver,Debit Card,52,448004,91
+Male,Pune,Bachelor,Gold,Debit Card,62,1203510,60
+Male,Delhi,Master,Basic,Credit Card,33,217118,51
+Male,Delhi,High School,Gold,Cash,25,1271192,21
+Female,Pune,Bachelor,Basic,Cash,64,331870,8
+Female,Chennai,Bachelor,Silver,Cash,34,202795,65
+Male,Bangalore,High School,Silver,Debit Card,34,1346038,92
+Male,Bangalore,Bachelor,Basic,UPI,43,987163,78
+Female,Bangalore,High School,Silver,Debit Card,30,1380777,85
+Male,Chennai,High School,Basic,UPI,34,359094,30
+Female,Chennai,High School,Basic,Credit Card,55,463749,85
+Male,Pune,PhD,Silver,Net Banking,34,1326082,49
+Female,Delhi,Bachelor,Platinum,UPI,31,964601,9
+Male,Pune,PhD,Basic,Cash,62,1292706,17
+Female,Pune,Bachelor,Gold,Debit Card,23,1146769,69
+Male,Chennai,Bachelor,Gold,Credit Card,52,363402,58
+Female,Bangalore,Bachelor,Silver,Cash,63,1054901,57
+Female,Mumbai,Bachelor,Platinum,Credit Card,31,1394835,62
+Male,Delhi,High School,Silver,Net Banking,64,619007,95
+Male,Chennai,Bachelor,Platinum,Debit Card,25,1450258,52
+Female,Bangalore,High School,Basic,Debit Card,32,423034,61
+Male,Mumbai,Bachelor,Basic,Net Banking,44,709394,40
+Female,Mumbai,Bachelor,Basic,Debit Card,30,744061,38
+Male,Chennai,High School,Basic,UPI,48,990671,43
+Female,Hyderabad,High School,Gold,Credit Card,52,483007,63
+Female,Delhi,Master,Gold,Cash,23,513559,19
+Female,Mumbai,Bachelor,Silver,Net Banking,22,268968,100
+Female,Chennai,High School,Platinum,UPI,39,693891,50
+Female,Chennai,PhD,Basic,Cash,40,784718,33
+Female,Bangalore,High School,Basic,Cash,42,1498648,13
+Male,Hyderabad,Bachelor,Platinum,Net Banking,51,201515,78
+Male,Delhi,PhD,Platinum,UPI,43,297206,97
+Male,Pune,High School,Silver,Cash,64,445282,62
+Female,Bangalore,High School,Platinum,Cash,22,607821,93
+Female,Mumbai,High School,Basic,UPI,43,1042672,43
+Female,Mumbai,Bachelor,Basic,Debit Card,37,205586,49
+Female,Bangalore,High School,Basic,Cash,23,1218725,36
+Male,Chennai,Bachelor,Basic,Credit Card,23,1108806,10
+Male,Mumbai,High School,Basic,UPI,35,969565,95
+Female,Hyderabad,Bachelor,Silver,Cash,21,744999,6
+Male,Delhi,PhD,Basic,Net Banking,34,220039,57
+Male,Hyderabad,Master,Silver,Credit Card,31,406555,1
+Female,Mumbai,Bachelor,Basic,Cash,31,1198899,71
+Male,Pune,Bachelor,Gold,Credit Card,30,1468306,58
+Female,Delhi,Bachelor,Gold,Credit Card,24,201577,91
+Male,Delhi,Bachelor,Gold,Debit Card,61,307792,21
+Female,Bangalore,Bachelor,Gold,Credit Card,32,1145854,92
+Female,Bangalore,High School,Silver,Debit Card,36,1487116,80
+Female,Pune,Master,Silver,UPI,60,1151302,56
+Female,Chennai,Bachelor,Platinum,Debit Card,64,1477082,87
+Male,Delhi,High School,Basic,Net Banking,61,210785,20
+Female,Pune,Bachelor,Gold,Cash,52,1320803,54
+Female,Bangalore,Bachelor,Silver,UPI,34,1105112,25
+Female,Bangalore,Master,Basic,UPI,52,1048389,28
+Male,Delhi,Master,Basic,Net Banking,36,1058326,5
+Female,Hyderabad,Master,Silver,Debit Card,37,1496517,21
+Male,Mumbai,High School,Gold,Cash,53,350653,18
+Female,Bangalore,Bachelor,Platinum,Debit Card,52,517336,47
+Male,Chennai,Bachelor,Basic,Credit Card,49,463606,70
+Male,Chennai,High School,Platinum,Debit Card,61,590992,57
+Female,Bangalore,High School,Gold,UPI,57,1133015,93
+Male,Hyderabad,Master,Gold,Cash,41,424737,19
+Female,Hyderabad,High School,Platinum,Debit Card,34,1094235,97
+Female,Pune,Bachelor,Gold,Cash,24,843970,65
+Female,Chennai,High School,Basic,Cash,60,586213,3
+Male,Pune,High School,Platinum,Credit Card,18,1303036,42
+Male,Chennai,High School,Gold,Credit Card,52,599437,21
+Female,Mumbai,PhD,Platinum,UPI,49,616690,99
+Female,Mumbai,Master,Basic,Net Banking,53,1223577,40
+Male,Delhi,PhD,Gold,Cash,30,1363951,67
+Female,Pune,Bachelor,Basic,Net Banking,23,1099092,25
+Female,Bangalore,High School,Gold,UPI,31,352117,55
+Female,Pune,Bachelor,Silver,Cash,54,1077751,84
+Male,Bangalore,Bachelor,Gold,Cash,32,1365158,52
+Male,Hyderabad,Master,Platinum,Net Banking,64,1122426,44
+Male,Pune,High School,Gold,Debit Card,21,878066,98
+Female,Hyderabad,Bachelor,Basic,Credit Card,57,252949,85
+Female,Mumbai,High School,Basic,Debit Card,33,663930,56
+Female,Mumbai,Bachelor,Gold,Net Banking,45,295558,55
+Male,Delhi,Master,Platinum,Credit Card,33,1209260,87
+Female,Pune,Bachelor,Silver,Debit Card,21,989148,70
+Female,Hyderabad,Bachelor,Platinum,Credit Card,62,1396222,77
+Female,Bangalore,Bachelor,Silver,Cash,43,917186,87
+Female,Mumbai,Bachelor,Basic,Debit Card,45,271916,73
+Male,Mumbai,Master,Platinum,Credit Card,49,972378,81
+Male,Bangalore,Master,Silver,Credit Card,62,1323270,66
+Female,Hyderabad,PhD,Gold,Credit Card,19,613867,19
+Male,Hyderabad,Master,Basic,Debit Card,48,1055126,83
+Male,Pune,Bachelor,Gold,UPI,20,1229242,7
+Female,Pune,Bachelor,Basic,Debit Card,25,270474,63
+Female,Chennai,Bachelor,Platinum,Net Banking,41,550068,42
+Male,Chennai,High School,Platinum,Debit Card,32,1191921,42
+Female,Delhi,Master,Basic,Credit Card,60,926499,59
+Male,Mumbai,High School,Basic,Cash,48,1021412,20
+Female,Pune,PhD,Basic,Debit Card,26,1303546,73
+Male,Hyderabad,Bachelor,Platinum,Debit Card,56,841232,17
+Female,Bangalore,Bachelor,Silver,Credit Card,62,604911,27
+Male,Hyderabad,Bachelor,Gold,Cash,19,611012,47
+Male,Mumbai,Master,Gold,Cash,25,1422191,2
+Male,Chennai,Bachelor,Platinum,Net Banking,24,1369070,63
+Female,Hyderabad,Bachelor,Gold,Debit Card,61,371277,62
+Male,Delhi,High School,Basic,Cash,56,691966,100
+Male,Mumbai,Bachelor,Silver,Cash,59,496303,19
+Female,Chennai,High School,Gold,UPI,33,1260092,17
+Female,Bangalore,Master,Silver,UPI,52,1015518,69
+Male,Chennai,Bachelor,Basic,Cash,47,383163,39
+Male,Delhi,Bachelor,Gold,Net Banking,27,1376599,82
+Female,Mumbai,High School,Platinum,Cash,55,572339,71
+Female,Bangalore,High School,Silver,Credit Card,35,1427414,81
+Female,Delhi,Master,Basic,Debit Card,22,1025169,39
+Female,Chennai,High School,Silver,Net Banking,46,471409,36
+Female,Delhi,High School,Gold,Credit Card,56,838453,40
+Male,Mumbai,High School,Gold,Net Banking,51,843789,45
+Female,Pune,PhD,Platinum,Credit Card,60,694670,4
+Male,Delhi,Master,Basic,Debit Card,62,1001818,25
+Male,Delhi,Bachelor,Basic,Debit Card,40,1023857,69
+Male,Chennai,High School,Platinum,UPI,22,321635,30
+Female,Chennai,Bachelor,Platinum,Credit Card,47,898614,76
+Male,Bangalore,Master,Basic,UPI,23,420935,68
+Male,Chennai,Bachelor,Silver,Credit Card,63,1302210,88
+Female,Hyderabad,High School,Silver,UPI,61,1204221,29
+Male,Mumbai,High School,Platinum,Debit Card,21,903022,73
+Male,Mumbai,High School,Silver,Net Banking,46,1073420,68
+Female,Pune,Bachelor,Basic,UPI,40,692503,51
+Male,Pune,Master,Gold,Credit Card,23,418599,24
+Male,Mumbai,High School,Gold,Credit Card,49,437919,14
+Male,Pune,High School,Silver,Debit Card,59,668668,69
+Female,Bangalore,High School,Platinum,Credit Card,35,603359,18
+Female,Chennai,PhD,Platinum,Cash,32,1028416,42
+Female,Mumbai,High School,Platinum,Net Banking,57,241505,57
+Male,Pune,Master,Platinum,UPI,49,1351054,83
+Male,Mumbai,Bachelor,Platinum,Net Banking,26,1311275,12
+Female,Hyderabad,Bachelor,Silver,Debit Card,54,1144461,82
+Male,Delhi,High School,Gold,UPI,27,1100444,17
+Male,Chennai,High School,Gold,UPI,37,354721,30
+Female,Mumbai,Bachelor,Silver,Cash,23,1210165,88
+Female,Delhi,Master,Platinum,Debit Card,20,1021190,75
+Male,Pune,Bachelor,Silver,Credit Card,59,336668,99
+Male,Delhi,Bachelor,Gold,Cash,28,478518,23
+Male,Chennai,High School,Basic,Cash,60,842974,81
+Female,Mumbai,PhD,Silver,Net Banking,34,1007461,1
+Female,Hyderabad,Master,Platinum,Net Banking,49,808269,79
+Female,Pune,High School,Gold,Net Banking,21,1362586,32
+Female,Mumbai,PhD,Gold,Cash,21,723472,9
+Male,Chennai,Bachelor,Gold,Credit Card,34,606884,15
+Female,Pune,Bachelor,Gold,UPI,58,459021,28
+Female,Bangalore,Master,Platinum,Net Banking,36,347032,24
+Female,Delhi,Master,Basic,Credit Card,22,850807,60
+Female,Chennai,Bachelor,Gold,Debit Card,49,1391005,35
+Female,Bangalore,High School,Silver,Net Banking,39,657820,86
+Male,Mumbai,Bachelor,Basic,UPI,23,1089171,27
+Male,Hyderabad,PhD,Gold,Debit Card,52,477948,83
+Female,Pune,High School,Basic,Debit Card,39,1233237,76
+Male,Delhi,Bachelor,Silver,UPI,18,359204,20
+Female,Pune,Bachelor,Gold,Net Banking,37,1123953,65
+Female,Mumbai,Bachelor,Silver,Cash,39,1087935,85
+Male,Pune,Bachelor,Platinum,UPI,28,305072,49
+Male,Delhi,PhD,Gold,UPI,30,864490,1
+Female,Mumbai,High School,Gold,UPI,59,289360,10
+Female,Pune,High School,Gold,Debit Card,20,262287,47
+Female,Hyderabad,High School,Gold,Credit Card,26,1486585,59
+Male,Chennai,Master,Platinum,Cash,29,907062,96
+Female,Mumbai,Bachelor,Gold,Net Banking,40,892353,62
+Female,Chennai,High School,Basic,Net Banking,31,887235,86
+Female,Mumbai,Master,Gold,Credit Card,50,970644,18
+Male,Hyderabad,Master,Platinum,UPI,35,861414,46
+Female,Chennai,Master,Gold,Cash,58,430881,32
+Female,Bangalore,PhD,Basic,Net Banking,26,1355933,27
+Male,Delhi,High School,Platinum,Net Banking,40,407440,92
+Female,Bangalore,Master,Platinum,UPI,27,753958,18
+Female,Pune,Bachelor,Basic,Credit Card,36,1074820,39
+Male,Hyderabad,Master,Basic,Cash,64,1407955,49
+Female,Bangalore,Master,Basic,Credit Card,22,968447,93
+Male,Mumbai,Master,Basic,Credit Card,64,1446735,82
+Male,Pune,Bachelor,Basic,Cash,40,394152,44
+Female,Pune,High School,Platinum,Cash,47,803623,72
+Female,Bangalore,Bachelor,Platinum,Net Banking,42,1012744,54
+Female,Bangalore,PhD,Gold,Net Banking,45,1222660,95
+Female,Hyderabad,PhD,Gold,Cash,51,1315561,34
+Male,Delhi,High School,Silver,Debit Card,62,1175112,71
+Female,Bangalore,High School,Gold,Net Banking,64,683178,36
+Male,Bangalore,High School,Gold,Debit Card,42,1419925,18
+Female,Chennai,Master,Basic,Cash,27,755839,38
+Female,Mumbai,Master,Basic,Net Banking,31,814101,59
+Female,Chennai,High School,Gold,Credit Card,59,649813,9
+Male,Chennai,Bachelor,Silver,Cash,63,1258213,73
+Female,Pune,Master,Basic,UPI,47,1153197,72
+Female,Delhi,Master,Gold,Debit Card,58,1127328,51
+Female,Mumbai,Bachelor,Gold,Cash,42,751238,35
+Female,Hyderabad,Bachelor,Platinum,Cash,31,616704,82
+Male,Hyderabad,Bachelor,Silver,Net Banking,52,200215,5
+Female,Bangalore,High School,Platinum,Net Banking,51,567747,14
+Male,Bangalore,Bachelor,Silver,Net Banking,27,997955,92
+Male,Hyderabad,Bachelor,Basic,UPI,52,1055121,30
+Male,Bangalore,Master,Silver,Net Banking,28,1272410,4
+Male,Delhi,Bachelor,Gold,Cash,28,1217375,39
+Male,Chennai,Master,Gold,Net Banking,38,472544,84
+Male,Bangalore,High School,Silver,Credit Card,38,734633,64
+Female,Pune,Bachelor,Silver,Net Banking,39,1282472,25
+Male,Bangalore,High School,Silver,UPI,62,1014661,28
+Male,Mumbai,High School,Platinum,Credit Card,24,710269,76
+Male,Delhi,Master,Silver,Cash,34,1122401,66
+Female,Mumbai,PhD,Basic,Cash,19,713622,78
+Female,Mumbai,High School,Platinum,Debit Card,29,1320113,22
+Male,Pune,Bachelor,Platinum,Credit Card,59,597783,31
+Female,Delhi,Master,Silver,Debit Card,35,853936,23
+Male,Delhi,High School,Basic,Credit Card,28,1099084,48
+Male,Delhi,Bachelor,Platinum,Credit Card,33,670455,20
+Female,Delhi,Master,Gold,UPI,35,868689,38
+Male,Delhi,Bachelor,Platinum,Debit Card,52,432117,55
+Female,Pune,High School,Silver,UPI,43,1461862,68
+Female,Bangalore,Bachelor,Basic,Credit Card,33,761340,79
+Male,Mumbai,Master,Silver,Cash,23,650985,88
+Male,Delhi,Bachelor,Gold,Credit Card,61,246032,89
+Female,Bangalore,High School,Gold,UPI,60,704910,1
+Male,Bangalore,Master,Gold,Debit Card,64,1206225,7
+Male,Mumbai,High School,Silver,Debit Card,64,1063413,57
+Male,Pune,Master,Platinum,UPI,59,823090,95
+Female,Hyderabad,High School,Silver,Debit Card,29,1120313,12
+Female,Hyderabad,PhD,Basic,Net Banking,30,1482913,5
+Male,Bangalore,Bachelor,Platinum,Cash,21,1421433,50
+Female,Chennai,Bachelor,Gold,Cash,56,629763,42
+Female,Chennai,High School,Silver,Cash,19,504962,12
+Female,Mumbai,Bachelor,Gold,Debit Card,43,541609,18
+Female,Hyderabad,Master,Gold,Debit Card,44,950887,66
+Female,Bangalore,PhD,Basic,Credit Card,44,837509,74
+Male,Pune,Bachelor,Platinum,Credit Card,32,499477,79
+Male,Hyderabad,Bachelor,Basic,Cash,25,1375033,94
+Male,Bangalore,Master,Basic,Net Banking,24,1368451,17
+Female,Bangalore,Master,Basic,Credit Card,64,1080432,68
+Female,Delhi,Bachelor,Gold,Credit Card,63,666995,71
+Male,Pune,Bachelor,Basic,Debit Card,57,755889,62
+Female,Delhi,Bachelor,Basic,Net Banking,29,1054378,41
+Male,Mumbai,Bachelor,Platinum,Cash,30,828474,95
+Male,Delhi,High School,Platinum,Credit Card,60,1049326,34
+Male,Delhi,Bachelor,Basic,Net Banking,34,889995,70
+Female,Hyderabad,Bachelor,Platinum,Net Banking,34,1477623,45
+Female,Chennai,Master,Platinum,Cash,53,292850,58
+Male,Bangalore,High School,Basic,Net Banking,38,1096197,51
+Male,Pune,Bachelor,Gold,Net Banking,25,1442522,34
+Male,Delhi,Bachelor,Basic,Net Banking,22,670949,44
+Male,Pune,Bachelor,Platinum,Credit Card,43,1015943,15
+Female,Chennai,High School,Gold,Cash,33,1067392,78
+Female,Chennai,Bachelor,Silver,Net Banking,53,1166325,70
+Male,Delhi,Bachelor,Gold,Net Banking,45,1497776,50
+Male,Mumbai,Bachelor,Platinum,Credit Card,46,925527,32
+Female,Delhi,Bachelor,Gold,Cash,64,683410,67
+Female,Hyderabad,Bachelor,Basic,Debit Card,29,1453179,3
+Male,Bangalore,Master,Silver,Credit Card,54,934172,86
+Male,Mumbai,High School,Silver,Cash,47,309779,86
+Male,Delhi,Master,Silver,Net Banking,40,1267133,74
+Female,Pune,Bachelor,Platinum,Cash,33,1407708,51
+Female,Mumbai,High School,Platinum,Cash,31,652082,67
+Female,Mumbai,High School,Silver,Cash,27,534248,76
+Male,Delhi,Bachelor,Gold,Debit Card,24,861440,93
+Male,Mumbai,Master,Silver,Cash,62,1393502,48
+Female,Pune,Master,Gold,Debit Card,54,923055,17
+Female,Chennai,Master,Gold,Net Banking,46,1432630,7
+Male,Mumbai,Bachelor,Platinum,Debit Card,20,765369,13
+Female,Chennai,Bachelor,Gold,Net Banking,32,1121872,66
+Female,Pune,High School,Silver,Net Banking,53,954981,4
+Male,Delhi,Bachelor,Platinum,Debit Card,64,581325,10
+Female,Bangalore,Bachelor,Basic,Credit Card,63,1013526,88
+Male,Mumbai,High School,Basic,UPI,36,1163544,17
+Male,Bangalore,High School,Platinum,Cash,30,528910,52
+Male,Pune,Bachelor,Silver,UPI,59,1403639,6
+Male,Mumbai,Master,Basic,Cash,38,883970,83
+Male,Chennai,PhD,Basic,Cash,54,805751,69
+Male,Hyderabad,PhD,Gold,Net Banking,44,673656,96
+Male,Bangalore,Bachelor,Gold,Cash,46,1158379,74
+Female,Mumbai,Bachelor,Silver,Cash,37,1274657,9
+Male,Bangalore,Bachelor,Platinum,Debit Card,42,1272930,91
+Male,Mumbai,Master,Silver,UPI,23,817585,77
+Female,Delhi,High School,Platinum,Debit Card,53,1004732,83
+Female,Chennai,Bachelor,Basic,Cash,19,1312960,21
+Female,Bangalore,Master,Gold,Net Banking,39,1047324,24
+Male,Hyderabad,Bachelor,Silver,Debit Card,49,235525,4
+Female,Hyderabad,Bachelor,Silver,Debit Card,33,1144036,24
+Male,Pune,Bachelor,Platinum,Credit Card,35,206464,59
+Male,Mumbai,High School,Platinum,Cash,22,575572,99
+Male,Bangalore,Bachelor,Silver,Net Banking,53,1361140,3
+Male,Pune,Bachelor,Platinum,Debit Card,47,756922,68
+Female,Bangalore,High School,Silver,Debit Card,62,394215,40
+Female,Mumbai,High School,Silver,Net Banking,36,465039,48
+Male,Hyderabad,Master,Silver,Cash,40,1167241,54
+Male,Delhi,High School,Basic,Credit Card,51,304127,35
+Male,Hyderabad,Bachelor,Platinum,Debit Card,30,296426,95
+Female,Pune,High School,Gold,Credit Card,60,1149520,56
+Male,Chennai,PhD,Gold,UPI,46,1440952,89
+Male,Delhi,High School,Platinum,Cash,53,1260538,40
+Female,Pune,Bachelor,Silver,UPI,39,233302,77
+Female,Mumbai,Master,Gold,UPI,64,204011,68
+Male,Delhi,Master,Gold,UPI,53,219782,46
+Female,Pune,High School,Platinum,Cash,26,1447339,78
+Female,Mumbai,Master,Gold,Cash,56,632941,13
+Male,Hyderabad,Bachelor,Silver,Net Banking,36,1292035,27
+Female,Chennai,Bachelor,Platinum,Credit Card,55,811533,6
+Male,Mumbai,High School,Silver,Credit Card,23,722829,17
+Female,Bangalore,High School,Gold,Net Banking,64,803151,36
+Male,Mumbai,Master,Gold,Net Banking,32,1109638,99
+Male,Mumbai,Bachelor,Silver,UPI,37,1281345,81
+Male,Chennai,Bachelor,Basic,Net Banking,26,569673,2
+Female,Bangalore,Master,Gold,Debit Card,49,1273276,77
+Male,Pune,Master,Basic,Credit Card,21,1193931,52
+Female,Pune,High School,Gold,Net Banking,35,431237,66
+Male,Mumbai,Bachelor,Basic,Debit Card,22,1108063,52
+Male,Bangalore,High School,Basic,Debit Card,37,506024,92
+Female,Bangalore,Master,Basic,Debit Card,40,314003,43
+Male,Chennai,Bachelor,Silver,Debit Card,28,1387968,90
+Male,Hyderabad,PhD,Basic,UPI,54,249589,22
+Female,Pune,High School,Basic,Debit Card,39,450606,55
+Male,Chennai,High School,Basic,UPI,21,931636,67
+Male,Delhi,High School,Gold,UPI,46,760185,99
+Male,Pune,High School,Basic,Debit Card,61,389637,60
+Male,Chennai,High School,Gold,Credit Card,51,886290,58
+Female,Pune,PhD,Basic,Debit Card,30,1462469,12
+Female,Hyderabad,High School,Basic,Debit Card,59,1319510,88
+Male,Delhi,High School,Silver,Debit Card,26,780118,69
+Female,Hyderabad,Master,Gold,Credit Card,59,467673,84
+Male,Delhi,Bachelor,Basic,Cash,48,556742,39
+Female,Mumbai,Master,Gold,Cash,24,957582,13
+Male,Chennai,High School,Gold,UPI,21,282987,41
+Male,Delhi,Bachelor,Platinum,UPI,36,1386585,57
+Male,Hyderabad,High School,Silver,Credit Card,59,764174,53
+Male,Pune,High School,Silver,Net Banking,47,749567,12
+Male,Delhi,PhD,Silver,Cash,48,631322,13
+Male,Chennai,High School,Platinum,UPI,52,310776,74
+Female,Delhi,Bachelor,Platinum,Cash,38,568444,97
+Male,Bangalore,Bachelor,Silver,Credit Card,48,1362369,57
+Female,Pune,Bachelor,Platinum,Credit Card,36,410809,40
+Male,Chennai,Master,Platinum,Net Banking,48,1420192,80
+Female,Chennai,High School,Platinum,Net Banking,49,1490838,45
+Female,Mumbai,Bachelor,Silver,Credit Card,19,733285,35
+Female,Hyderabad,PhD,Silver,UPI,27,1354678,3
+Male,Mumbai,Bachelor,Silver,Cash,19,1072143,5
+Male,Chennai,PhD,Platinum,Debit Card,19,765148,90
+Female,Pune,High School,Silver,Net Banking,41,1176974,11
+Male,Delhi,Bachelor,Platinum,Debit Card,34,837506,71
+Female,Delhi,High School,Basic,UPI,49,722070,56
+Male,Pune,Master,Platinum,Net Banking,33,307041,10
+Female,Chennai,PhD,Gold,Debit Card,33,574368,34
+Female,Delhi,High School,Silver,UPI,63,525800,67
+Male,Delhi,Bachelor,Silver,Cash,56,916438,72
+Female,Delhi,High School,Gold,UPI,48,681862,31
+Male,Hyderabad,Bachelor,Platinum,Net Banking,60,1324866,75
+Female,Hyderabad,Bachelor,Basic,Credit Card,41,1305209,71
+Female,Bangalore,PhD,Gold,Cash,18,1369694,66
+Male,Mumbai,Bachelor,Gold,Debit Card,28,898961,70
+Male,Pune,Bachelor,Platinum,Net Banking,38,1251690,41
+Male,Pune,High School,Silver,Credit Card,21,1012934,63
+Female,Pune,High School,Platinum,UPI,24,249768,32
+Male,Bangalore,High School,Gold,Credit Card,43,1173069,20
+Female,Hyderabad,High School,Gold,Net Banking,64,283123,57
+Female,Chennai,Master,Silver,Net Banking,29,366405,98
+Male,Chennai,Bachelor,Silver,Credit Card,48,203174,50
+Male,Bangalore,Bachelor,Silver,UPI,34,317769,80
+Female,Chennai,High School,Platinum,Credit Card,50,497542,25
+Female,Pune,Master,Silver,Net Banking,28,629145,12
+Male,Mumbai,Master,Gold,Net Banking,45,1383969,71
+Male,Delhi,High School,Gold,Debit Card,49,966868,39
+Male,Hyderabad,Master,Basic,Debit Card,18,1435069,17
+Male,Hyderabad,Bachelor,Platinum,Cash,64,796923,45
+Male,Bangalore,High School,Basic,Net Banking,45,1128864,11
+Female,Hyderabad,Bachelor,Gold,Debit Card,59,967166,70
+Female,Pune,Bachelor,Basic,Credit Card,24,417070,23
+Female,Chennai,High School,Gold,UPI,19,599017,91
+Female,Pune,PhD,Basic,Credit Card,59,1131775,70
+Male,Bangalore,Master,Silver,UPI,41,569359,38
+Male,Pune,Bachelor,Basic,Debit Card,21,1398632,2
+Male,Chennai,Bachelor,Silver,Cash,61,1074527,86
+Female,Mumbai,Bachelor,Silver,Credit Card,36,1047374,84
+Female,Bangalore,Bachelor,Platinum,Credit Card,43,343933,89
+Male,Mumbai,Bachelor,Silver,Credit Card,28,1347546,79
+Male,Delhi,High School,Silver,UPI,57,1330779,93
+Female,Mumbai,Bachelor,Basic,Debit Card,60,1440895,72
+Female,Delhi,Master,Gold,Credit Card,28,1448749,37
+Male,Delhi,Bachelor,Platinum,Credit Card,62,701946,49
+Male,Mumbai,High School,Silver,Cash,20,876337,52
+Female,Bangalore,Master,Platinum,Cash,29,1466302,33
+Male,Chennai,High School,Basic,Debit Card,20,1074609,22
+Male,Pune,High School,Silver,Debit Card,59,292172,5
+Male,Pune,High School,Basic,Net Banking,44,870990,18
+Female,Chennai,Bachelor,Platinum,Cash,19,744344,38
+Female,Delhi,Master,Basic,Net Banking,33,1387030,37
+Female,Delhi,Bachelor,Platinum,UPI,19,1304315,94
+Female,Bangalore,High School,Basic,Net Banking,47,248639,95
+Female,Hyderabad,Master,Platinum,Credit Card,37,653054,64
+Female,Mumbai,Master,Gold,Net Banking,55,639257,10
+Female,Delhi,Master,Basic,Debit Card,45,987424,79
+Male,Pune,High School,Basic,UPI,42,796682,42
+Male,Bangalore,Bachelor,Gold,Credit Card,49,529801,48
+Male,Mumbai,PhD,Gold,Net Banking,27,1013592,44
+Male,Bangalore,Master,Basic,UPI,59,382447,82
+Male,Mumbai,High School,Gold,UPI,57,548586,87
+Male,Mumbai,High School,Silver,Credit Card,50,874932,97
+Male,Chennai,Bachelor,Platinum,Net Banking,30,580069,16
+Female,Delhi,PhD,Platinum,UPI,58,204136,54
+Female,Bangalore,Bachelor,Platinum,UPI,59,261868,35
+Male,Bangalore,Bachelor,Silver,Cash,64,544407,98
+Male,Chennai,High School,Gold,UPI,54,1018599,28
+Female,Pune,Bachelor,Gold,Cash,33,310957,2
+Male,Pune,Master,Basic,Net Banking,62,739767,94
+Male,Delhi,Bachelor,Gold,Net Banking,39,319392,13
+Female,Delhi,Master,Basic,Net Banking,37,860183,41
+Male,Hyderabad,PhD,Silver,Debit Card,60,980516,80
+Female,Chennai,High School,Platinum,Net Banking,44,1450104,59
+Male,Pune,Bachelor,Platinum,UPI,58,1006017,69
+Female,Mumbai,High School,Platinum,Credit Card,33,1483423,92
+Female,Bangalore,Master,Gold,Cash,51,1061501,53
+Female,Delhi,Bachelor,Basic,Debit Card,49,465864,45
+Male,Bangalore,Bachelor,Basic,Net Banking,43,481411,20
+Female,Bangalore,Master,Silver,Net Banking,42,1395344,24
+Male,Hyderabad,Bachelor,Gold,Credit Card,19,885328,61
+Male,Pune,PhD,Silver,Credit Card,29,515508,91
+Male,Delhi,Bachelor,Basic,Debit Card,57,616561,94
+Male,Bangalore,High School,Basic,Cash,26,251567,58
+Female,Delhi,Bachelor,Platinum,Net Banking,29,291229,27
+Female,Mumbai,Master,Gold,Debit Card,43,1179111,26
+Male,Hyderabad,Bachelor,Basic,UPI,26,1447892,7
+Male,Mumbai,Master,Platinum,UPI,27,1064950,42
+Female,Delhi,PhD,Gold,Debit Card,49,807132,47
+Male,Delhi,High School,Silver,Net Banking,51,1412567,53
+Female,Pune,PhD,Gold,Debit Card,37,839888,59
+Male,Bangalore,High School,Gold,Net Banking,56,824913,38
+Male,Bangalore,High School,Basic,Credit Card,19,1117999,69
+Female,Mumbai,High School,Basic,Debit Card,18,1031187,87
+Male,Hyderabad,Master,Gold,Net Banking,53,1281900,92
+Female,Chennai,Bachelor,Basic,Debit Card,41,1065361,98
+Male,Bangalore,High School,Basic,Debit Card,44,594768,53
+Male,Pune,Bachelor,Basic,Net Banking,19,251272,15
+Male,Mumbai,Bachelor,Platinum,Net Banking,48,629069,96
+Female,Mumbai,High School,Platinum,Cash,31,449264,26
+Male,Chennai,Master,Gold,Debit Card,19,888284,48
+Male,Pune,Master,Basic,UPI,46,436538,95
+Male,Hyderabad,Bachelor,Platinum,Debit Card,32,778963,19
+Male,Pune,PhD,Gold,Debit Card,29,715447,9
+Female,Hyderabad,Bachelor,Basic,Net Banking,54,1322167,64
+Female,Pune,PhD,Silver,Debit Card,45,353706,93
+Male,Pune,Bachelor,Basic,Debit Card,37,1443400,54
+Female,Delhi,Bachelor,Basic,UPI,56,539148,51
+Male,Mumbai,High School,Platinum,Net Banking,41,1173902,39
+Male,Pune,Master,Gold,Debit Card,38,953818,4
+Male,Chennai,Bachelor,Gold,Credit Card,27,1027150,3
+Female,Pune,High School,Platinum,Cash,63,1362203,64
+Female,Bangalore,High School,Basic,UPI,31,489014,29
+Female,Mumbai,Bachelor,Silver,Debit Card,54,1285970,11
+Female,Bangalore,Bachelor,Basic,Credit Card,35,1038489,97
+Female,Mumbai,Master,Basic,Debit Card,41,1328371,58
+Female,Bangalore,Master,Silver,Debit Card,31,542553,75
+Female,Pune,High School,Platinum,Net Banking,51,242137,27
+Female,Pune,Master,Gold,Net Banking,29,338925,97
+Female,Delhi,High School,Platinum,Net Banking,39,736667,21
+Male,Chennai,Master,Platinum,Credit Card,23,1133296,39
+Female,Bangalore,Master,Basic,Debit Card,53,321169,95
+Female,Hyderabad,Bachelor,Gold,Cash,62,1418015,46
+Female,Delhi,Master,Gold,UPI,53,1397748,66
+Female,Bangalore,Bachelor,Platinum,Net Banking,39,575233,91
+Female,Bangalore,Bachelor,Silver,Net Banking,31,1180960,36
+Female,Delhi,Master,Platinum,Debit Card,33,663120,75
+Female,Pune,Bachelor,Silver,Debit Card,53,1034123,82
+Female,Bangalore,Bachelor,Gold,Credit Card,42,1416688,65
+Female,Pune,Bachelor,Platinum,Credit Card,49,973815,63
+Female,Delhi,Master,Basic,Net Banking,50,424062,99
+Female,Pune,Bachelor,Platinum,Debit Card,62,257986,35
+Male,Mumbai,High School,Gold,Cash,53,631978,31
+Male,Hyderabad,Master,Basic,UPI,37,1353891,28
+Female,Bangalore,Master,Basic,Debit Card,35,519348,1
+Female,Chennai,High School,Silver,Debit Card,55,902214,25
+Male,Hyderabad,High School,Basic,Credit Card,20,895139,43
