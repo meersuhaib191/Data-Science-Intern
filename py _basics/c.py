@@ -8,7 +8,7 @@ for key , value in my_dict.items():
     print(key,":",value)
 
 my_dict2 = {
-    'name2': 'Musaib',
+    'name2': 'Musaibi',
     'age2': 23 ,
     'role2 ':'intern'
 }
