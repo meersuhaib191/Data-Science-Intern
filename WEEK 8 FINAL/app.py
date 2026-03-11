@@ -249,7 +249,7 @@ col3.metric("Peak Traffic Hour",peak_hour)
 
 
 # ------------------------------------------------
-# TRAFFIC FORECAST
+#  TRAFFIC FORECAST
 # ------------------------------------------------
 
 st.subheader("📈 Next 6 Hours Traffic Forecast")
