@@ -232,7 +232,7 @@ st_folium(
 
 
 # ------------------------------------------------
-# AI TRAVEL INSIGHTS
+#   AI TRAVEL INSIGHTS
 # ------------------------------------------------
 
 st.subheader("🤖 AI Travel Insights")
