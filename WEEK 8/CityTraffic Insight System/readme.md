@@ -132,4 +132,4 @@ Advanced deep learning models
 ### 👨‍💻 Author
 
 Mir Suhaib
-B.Tech Computer Science
+
