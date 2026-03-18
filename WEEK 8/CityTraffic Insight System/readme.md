@@ -113,13 +113,11 @@ Data-driven urban traffic insights
 Real-time style dashboard (based on historical data)
 
 Scalable for smart city applications
-```
-```
+
 ### ⚠️ Note
 
 This system uses historical traffic data and provides data-informed predictions, not real-time live traffic.
-```
-```
+
 ### 📈 Future Improvements
 
 Integration with real-time traffic APIs
@@ -129,11 +127,9 @@ Route optimization using graph algorithms
 Interactive maps (Folium / Mapbox)
 
 Advanced deep learning models
-```
-```
+
 
 ### 👨‍💻 Author
 
 Mir Suhaib
 B.Tech Computer Science
-```
