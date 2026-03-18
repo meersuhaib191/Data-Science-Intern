@@ -86,3 +86,46 @@ The Streamlit dashboard provides:
 ```bash
 git clone https://github.com/your-username/citytraffic-insight-system.git
 cd citytraffic-insight-system
+```
+### 2. Install dependencies
+pip install -r requirements.txt
+
+### 3. Run the app
+streamlit run app.py
+
+### 📁 Project Structure
+├── app.py
+├── train_model.ipynb
+├── travel_time_model.pkl
+├── congestion_model.pkl
+├── requirements.txt
+└── README.md
+
+### 📌 Key Highlights
+
+AI-powered traffic prediction
+
+Data-driven urban traffic insights
+
+Real-time style dashboard (based on historical data)
+
+Scalable for smart city applications
+
+### ⚠️ Note
+
+This system uses historical traffic data and provides data-informed predictions, not real-time live traffic.
+
+### 📈 Future Improvements
+
+Integration with real-time traffic APIs
+
+Route optimization using graph algorithms
+
+Interactive maps (Folium / Mapbox)
+
+Advanced deep learning models
+
+### 👨‍💻 Author
+
+Mir Suhaib
+B.Tech Computer Science
