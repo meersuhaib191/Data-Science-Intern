@@ -4,6 +4,7 @@ An AI-powered traffic intelligence system that analyzes urban traffic patterns a
 
 ---
 
+
 ## 📌 Overview
 
 **CityTraffic Insight System** is a data-driven traffic analytics platform built using Machine Learning and Streamlit. It leverages historical traffic data from multiple areas in Bengaluru to generate intelligent insights such as:
@@ -15,6 +16,7 @@ An AI-powered traffic intelligence system that analyzes urban traffic patterns a
 - Smart travel recommendations  
 
 ---
+
 
 ## 🎯 Objectives
 
