@@ -18,7 +18,6 @@ An AI-powered traffic intelligence system that analyzes urban traffic patterns a
 ---
 
 
-
 ## 🎯 Objectives
 
 - Predict **Travel Time Index** using regression models  
