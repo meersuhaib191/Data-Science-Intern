@@ -1,139 +1,84 @@
-# 🚦 CityTraffic Insight System
+# CityTraffic Insight Pro
 
-An AI-powered traffic intelligence system that analyzes urban traffic patterns across Bengaluru and provides smart insights for congestion, travel time, and route efficiency.
+Premium AI-powered traffic analytics dashboard for Bengaluru built with Machine Learning + Streamlit.
 
----
+## Why this project stands out
 
+CityTraffic Insight Pro combines model-based predictions with a polished analytics UX. It helps users understand traffic behavior, estimate travel friction, and identify high-risk intersections through a clean, decision-friendly interface.
 
+## Core capabilities
 
-##   📌 Overview
+- Travel Time Index prediction (regression model)
+- Traffic level prediction (classification model)
+- Hourly congestion curve with peak-hour and best-hour detection
+- Risk view for accident-prone intersections and busiest roads
+- Correlation heatmap for congestion drivers
+- Scenario simulation controls (day, weather, roadwork)
+- Bengaluru intra-city fastest-route navigation (area-to-area commute planning)
+- Operational trip intelligence (adjusted ETA, risk, fuel and CO2 estimate)
+- Route alternatives comparison with fastest option auto-selected
+- Congestion analytics by route segments and best departure hour recommendation
+- Downloadable traffic snapshot report (CSV)
+- Robust fallback logic when `.pkl` models are unavailable
 
-**CityTraffic Insight System** is a data-driven traffic analytics platform built using Machine Learning and Streamlit. It leverages historical traffic data from multiple areas in Bengaluru to generate intelligent insights such as:
+## Project architecture
 
-- Traffic congestion levels  
-- Travel time estimation  
-- Peak traffic hours  
-- Accident-prone intersections  
-- Smart travel recommendations  
+- `train_models.ipynb` — training notebook for regression and classification models
+- `app.py` — Streamlit dashboard application
+- `travel_time_model.pkl` — optional serialized regressor
+- `congestion_model.pkl` — optional serialized classifier
+- `requirements.txt` — Python dependencies
 
----
+## Dataset
 
+The app uses Bengaluru traffic observations with signals such as:
 
+- Traffic Volume
+- Average Speed
+- Road Capacity Utilization
+- Incident Reports
+- Environmental Impact
+- Public Transport Usage
+- Traffic Signal Compliance
+- Parking Usage
+- Pedestrian and Cyclist Count
+- Weather Conditions
 
-## 🎯 Objectives
+Data source in app: Google Drive CSV endpoint.
 
-- Predict **Travel Time Index** using regression models  
-- Classify **Traffic Congestion Levels** (Low / Medium / High)  
-- Provide **area-based traffic insights**  
-- Enable **data-driven decision making for travel planning**  
+## Tech stack
 
----
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Streamlit
+- Matplotlib, Seaborn
+- Requests
 
-## 🧠 Machine Learning Models
+## Local setup
 
-### 🔹 Random Forest Regressor
-- Predicts **Travel Time Index**
-- Helps estimate delays and travel efficiency  
+1) Create and activate a virtual environment (recommended):
 
-### 🔹 Random Forest Classifier
-- Predicts **Traffic Congestion Level**
-- Outputs:
-  - Low Traffic  
-  - Medium Traffic  
-  - High Traffic  
-
----
-
-## 📊 Dataset
-
-The dataset includes traffic data collected from various **areas and intersections across Bengaluru**, with features such as:
-
-- Traffic Volume  
-- Average Speed  
-- Road Capacity Utilization  
-- Incident Reports  
-- Environmental Impact  
-- Public Transport Usage  
-- Traffic Signal Compliance  
-- Parking Usage  
-- Pedestrian & Cyclist Count  
-- Weather Conditions  
-
----
-
-## 🖥️ Dashboard Features
-
-The Streamlit dashboard provides:
-
-- 📍 Area-based traffic analysis  
-- 📈 Congestion trend visualization  
-- 🚗 Travel time estimation  
-- ⚠ Accident-prone area detection  
-- 🧠 Smart traffic insights  
-- 📊 Congestion drivers analysis  
-
----
-
-## ⚙️ Tech Stack
-
-- **Python**
-- **Pandas, NumPy**
-- **Scikit-learn**
-- **Matplotlib, Seaborn**
-- **Streamlit**
-
----
-
-## 🚀 How to Run
-
-### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/citytraffic-insight-system.git
-cd citytraffic-insight-system
+python -m venv .venv
+.venv\Scripts\activate
 ```
-### 2. Install dependencies
+
+2) Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Run the app
+
+3) Run the dashboard:
+
 ```bash
 streamlit run app.py
 ```
-```
-### 📁 Project Structure
-├── app.py
-├── train_model.ipynb
-├── travel_time_model.pkl
-├── congestion_model.pkl
-├── requirements.txt
-└── README.md
-```
-### 📌 Key Highlights
 
-AI-powered traffic prediction
+## Notes
 
-Data-driven urban traffic insights
-
-Real-time style dashboard (based on historical data)
-
-Scalable for smart city applications
-
-### ⚠️ Note
-
-This system uses historical traffic data and provides data-informed predictions, not real-time live traffic.
-
-### 📈 Future Improvements
-
-Integration with real-time traffic APIs
-
-Route optimization using graph algorithms
-
-Interactive maps (Folium / Mapbox)
-
-Advanced deep learning models
-
-
-### 👨‍💻 Author
-
-Mir Suhaib
+- If model files are present, the app uses trained models for predictions.
+- If model files are missing, the app falls back to heuristic predictions so the dashboard still works.
+- This is a historical-data intelligence tool, not a real-time GPS navigation replacement.
 
