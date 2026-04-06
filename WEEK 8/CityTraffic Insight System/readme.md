@@ -1,10 +1,7 @@
 # CityTraffic Insight Pro
 
-Premium AI-powered traffic analytics dashboard for Bengaluru built with Machine Learning + Streamlit.
+AI-powered traffic analytics dashboard for Bengaluru built with Machine Learning + Streamlit.
 
-## Why this project stands out
-
-CityTraffic Insight Pro combines model-based predictions with a polished analytics UX. It helps users understand traffic behavior, estimate travel friction, and identify high-risk intersections through a clean, decision-friendly interface.
 
 ## Core capabilities
 
